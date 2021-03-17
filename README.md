@@ -4,15 +4,12 @@
 
 <!-- Replace 'PROJECT-NAME' with project's name -->
 
-# PROJECT-NAME
+# ScrewAxios (SAX)
 
-> Subtitle or Short Description
-
-> ideally one sentence
-
-> include terms/tags that can be searched
+My own layer on XMLHttpRequest using Promises, similar to Axios.
 
 
+<!--
 (build status) 
 [![Build Status][build-image]][no-link]
 (issues) 
@@ -27,8 +24,6 @@
 [![License][license-image]][license-url]
 (pull requests) 
 [![GitHub Pull Requests][pr-image]][pr-url]
-
-[![Download-iOS][appstore-image]][appstore-url]
 
 ***FIRST GRAPHIC***
 
@@ -58,19 +53,6 @@
 
 ---
 
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
-- [License](#license)
-
----
-
 ## Installation
 
 1. This project can be found on [the App Store][appstore-url].
@@ -96,6 +78,8 @@ $ git clone https://github.com/mazjap/REPO-NAME
 
 ---
 
+-->
+
 ## Documentation
 
 Please refer to the [wiki][wiki-url] for technical details on the project.
@@ -118,11 +102,11 @@ $ git clone https://github.com/mazjap/REPO-NAME
 
 ## Contributors
 
-| [Jordan Christensen](https://jordan-christensen.com/) | [Second Person](https://github.com/) |
-| :---: | :---: |
-| [<img src="https://avatars0.githubusercontent.com/u/24785257?s=460&v=4" width="300" />](https://github.com/mazjap) | [<img src="https://thispersondoesnotexist.com/image" width="300" />]() |
-| [<img src="https://github.com/favicon.ico" width="25"> ](https://github.com/mazjap) | [<img src="https://github.com/favicon.ico" width="25"> ](https://github.com/) |
-| [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/jordan-a-christensen/) | [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/) |
+| [Jordan Christensen](https://jordan-christensen.com/) |
+| :---: |
+| [<img src="https://avatars0.githubusercontent.com/u/24785257?s=460&v=4" width="300" />](https://github.com/mazjap) |
+| [<img src="https://github.com/favicon.ico" width="25"> ](https://github.com/mazjap) |
+| [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/jordan-a-christensen/) |
 
 ---
 
